@@ -1,0 +1,26 @@
+# /etc/conf.d/satoshishiftd: config file for /etc/init.d/satoshishiftd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/satoshishift/satoshishift.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/satoshishiftd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/satoshishiftd.pid"
+
+# Where to write satoshishiftd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/satoshishiftd"
+
+# User and group to own satoshishiftd process
+#BITCOIND_USER="satoshishift"
+#BITCOIND_GROUP="satoshishift"
+
+# Path to satoshishiftd executable
+#BITCOIND_BIN="/usr/bin/satoshishiftd"
+
+# Nice value to run satoshishiftd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

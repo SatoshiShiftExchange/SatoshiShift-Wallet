@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Satoshishift
+Comment=Satoshishift P2P Cryptocurrency
+Exec=satoshishift-qt %u
+Terminal=false
+Type=Application
+Icon=satoshishift128
+MimeType=x-scheme-handler/satoshishift;
+Categories=Office;Finance;
+Name[en_US]=satoshishift-qt.desktop

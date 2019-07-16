@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/satoshishift_bg.qm</file>
+        <file alias="ca">locale/satoshishift_ca.qm</file>
+        <file alias="cs">locale/satoshishift_cs.qm</file>
+        <file alias="da">locale/satoshishift_da.qm</file>
+        <file alias="de">locale/satoshishift_de.qm</file>
+        <file alias="en">locale/satoshishift_en.qm</file>
+        <file alias="en_US">locale/satoshishift_en_US.qm</file>
+        <file alias="es">locale/satoshishift_es.qm</file>
+        <file alias="fi">locale/satoshishift_fi.qm</file>
+        <file alias="fr_FR">locale/satoshishift_fr_FR.qm</file>
+        <file alias="it">locale/satoshishift_it.qm</file>
+        <file alias="ja">locale/satoshishift_ja.qm</file>
+        <file alias="ko_KR">locale/satoshishift_ko_KR.qm</file>
+        <file alias="nl">locale/satoshishift_nl.qm</file>
+        <file alias="pl">locale/satoshishift_pl.qm</file>
+        <file alias="pt">locale/satoshishift_pt.qm</file>
+        <file alias="pt_BR">locale/satoshishift_pt_BR.qm</file>
+        <file alias="ro_RO">locale/satoshishift_ro_RO.qm</file>
+        <file alias="ru">locale/satoshishift_ru.qm</file>
+        <file alias="sk">locale/satoshishift_sk.qm</file>
+        <file alias="sv">locale/satoshishift_sv.qm</file>
+        <file alias="tr">locale/satoshishift_tr.qm</file>
+        <file alias="uk">locale/satoshishift_uk.qm</file>
+        <file alias="zh_CN">locale/satoshishift_zh_CN.qm</file>
+        <file alias="zh_TW">locale/satoshishift_zh_TW.qm</file>
+    </qresource>
+</RCC>
